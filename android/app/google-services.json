@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418423543491",
+    "project_id": "task-9004d",
+    "storage_bucket": "task-9004d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418423543491:android:f042ac51b5bc6272347476",
+        "android_client_info": {
+          "package_name": "com.example.wingdingtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418423543491-jc2f2l8j5dju4s3agbcfnrjk52gpt4ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEQK4rtJg4eNxS1tXYAt_iRf11sg2o7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418423543491-jc2f2l8j5dju4s3agbcfnrjk52gpt4ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
